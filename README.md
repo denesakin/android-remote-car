@@ -1,5 +1,4 @@
-# Group 05
-
+This project is created by a group of 6 people for DIT112 Mini Project: Systems Development in Software Engineering and Management, Gothenburg & Chalmers University 
 ## Description
 
 ### What you are going to make?
